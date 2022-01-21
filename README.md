@@ -1,4 +1,4 @@
-# Wordle Vocabulary (json)
+# Wordle Vocabulary 
 **SPOILERS ALERT**
 
 The current Wordle vocabulary for important Wordle research projects. 
