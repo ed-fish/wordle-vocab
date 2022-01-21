@@ -1,8 +1,8 @@
 # wordle-vocab
 **SPOILERS ALERT**
 
-The current wordle vocabulary for important wordle research projects. 
+The current Wordle vocabulary for important Wordle research projects. 
 
-There is a vocab object which appears to contain the list of available words for each day. 
-The "other" object is also in the source code as an additional alphabetical list but it's not clear what function this list has - please let me know if you find out. 
+There is a "vocab" object which appears to contain the list of available words for each day ~2k words. 
+The "other" object contains all possible guesses ~10k words.
 
