@@ -1,4 +1,6 @@
 # wordle-vocab
+**SPOILERS ALERT**
+
 The current wordle vocabulary for important wordle research projects. 
 
 There is a vocab object which appears to contain the list of available words for each day. 
